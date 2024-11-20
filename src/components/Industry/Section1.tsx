@@ -49,7 +49,7 @@ const Section1 = () => {
                             <br /><br />
                             Our strategic branding elevates healthcare organizations' market presence, helping them stand out in a competitive environment. With targeted digital marketing campaigns, we enhance reach and impact, effectively connecting healthcare providers with their audiences for meaningful engagement.
                         </p>
-                        <Link href={'/industries/health-care'}>
+                        <Link href={'/industries/healthcare'}>
                             <Button className='bg-[#7030A0] py-6 text-xl px-9'>Learn More</Button>
                         </Link>
                     </div>
