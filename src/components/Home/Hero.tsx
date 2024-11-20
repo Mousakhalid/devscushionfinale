@@ -11,7 +11,7 @@ const Hero = () => {
                 <div className='space-y-6 '>
                     <h2 className='text-4xl font-sans font-semibold md:mt-28 md:w-[70%]'>An Innovative Digital Solutions Agency <span className='text-[#6F2FA0]'>Revolutionizing </span>Businesses.</h2>
                     <p className='md:w-[80%]'>We collaborate with startups and many fortune companies to craft products that captivate customers, drive adoption, and accelerate revenue growth.</p>
-                    <div className='md:space-x-6 max-sm:space-y-4 flex'>
+                    <div className='md:space-x-6 max-sm:space-y-4 flex md:flex-row flex-col'>
                         <div>
                             <Link href={'/get-a-quote'}>
                                 <Button className='rounded-full py-6 font-bold px-14 text-[16px] max-sm:w-full hover:bg-[#6F2FA0]'>
